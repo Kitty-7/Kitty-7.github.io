@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kitty-7的小站</title>
+  
+  
+  <link href="https://kitty-7.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://kitty-7.github.io/"/>
+  <updated>2024-12-14T15:01:00.000Z</updated>
+  <id>https://kitty-7.github.io/</id>
+  
+  <author>
+    <name>Kitty-7</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我的家乡---美丽梧州</title>
+    <link href="https://kitty-7.github.io/2024/12/%E9%95%9C%E5%83%8F%E6%BA%90%E5%8F%8Ahost%E5%8A%A0%E9%80%9F%E7%9A%84%E8%AE%BE%E7%BD%AE/"/>
+    <id>https://kitty-7.github.io/2024/12/%E9%95%9C%E5%83%8F%E6%BA%90%E5%8F%8Ahost%E5%8A%A0%E9%80%9F%E7%9A%84%E8%AE%BE%E7%BD%AE/</id>
+    <published>2024-12-14T12:35:00.000Z</published>
+    <updated>2024-12-14T15:01:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2</summary>
+        
+      
+    
+    
+    
+    
+    <category term="conda" scheme="https://kitty-7.github.io/tags/conda/"/>
+    
+    <category term="github" scheme="https://kitty-7.github.io/tags/github/"/>
+    
+    <category term="host" scheme="https://kitty-7.github.io/tags/host/"/>
+    
+    <category term="pip" scheme="https://kitty-7.github.io/tags/pip/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>人生励志座右铭</title>
+    <link href="https://kitty-7.github.io/2024/12/git%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%8F%8Ahexo%E9%83%A8%E7%BD%B2githubpages/"/>
+    <id>https://kitty-7.github.io/2024/12/git%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%8F%8Ahexo%E9%83%A8%E7%BD%B2githubpages/</id>
+    <published>2024-12-13T15:01:00.000Z</published>
+    <updated>2024-12-13T15:01:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1&gt;不是所有的鱼，都会生活在同一片海里，人各有不同，无论遇到什么样的人都不稀奇。你不一定要出众，会有人看到平凡但又泛着光的你，风是不被定义的，希望你能自由快乐，也一定要好好爱自己，多多关照自己的情绪，好好保重身体，剩下的，我们慢慢去努力。无论你活成什么样子，都会有人说三道四，</summary>
+        
+      
+    
+    
+    
+    
+    <category term="github" scheme="https://kitty-7.github.io/tags/github/"/>
+    
+    <category term="blog" scheme="https://kitty-7.github.io/tags/blog/"/>
+    
+    <category term="git" scheme="https://kitty-7.github.io/tags/git/"/>
+    
+    <category term="hexo" scheme="https://kitty-7.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>

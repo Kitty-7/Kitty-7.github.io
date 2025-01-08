@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Kitty-7的小站</title>
+    <link>https://Kitty-7.github.io/</link>
+    
+    <atom:link href="https://kitty-7.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Sat, 14 Dec 2024 15:01:00 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>我的家乡---美丽梧州</title>
+      <link>https://kitty-7.github.io/2024/12/%E9%95%9C%E5%83%8F%E6%BA%90%E5%8F%8Ahost%E5%8A%A0%E9%80%9F%E7%9A%84%E8%AE%BE%E7%BD%AE/</link>
+      <guid>https://kitty-7.github.io/2024/12/%E9%95%9C%E5%83%8F%E6%BA%90%E5%8F%8Ahost%E5%8A%A0%E9%80%9F%E7%9A%84%E8%AE%BE%E7%BD%AE/</guid>
+      <pubDate>Sat, 14 Dec 2024 12:35:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h2</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://Kitty-7.github.io/tags/conda/">conda</category>
+      
+      <category domain="https://Kitty-7.github.io/tags/github/">github</category>
+      
+      <category domain="https://Kitty-7.github.io/tags/host/">host</category>
+      
+      <category domain="https://Kitty-7.github.io/tags/pip/">pip</category>
+      
+      
+      <comments>https://kitty-7.github.io/2024/12/%E9%95%9C%E5%83%8F%E6%BA%90%E5%8F%8Ahost%E5%8A%A0%E9%80%9F%E7%9A%84%E8%AE%BE%E7%BD%AE/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>人生励志座右铭</title>
+      <link>https://kitty-7.github.io/2024/12/git%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%8F%8Ahexo%E9%83%A8%E7%BD%B2githubpages/</link>
+      <guid>https://kitty-7.github.io/2024/12/git%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%8F%8Ahexo%E9%83%A8%E7%BD%B2githubpages/</guid>
+      <pubDate>Fri, 13 Dec 2024 15:01:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;h1&gt;不是所有的鱼，都会生活在同一片海里，人各有不同，无论遇到什么样的人都不稀奇。你不一定要出众，会有人看到平凡但又泛着光的你，风是不被定义的，希望你能自由快乐，也一定要好好爱自己，多多关照自己的情绪，好好保重身体，剩下的，我们慢慢去努力。无论你活成什么样子，都会有人说三道四，</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://Kitty-7.github.io/tags/github/">github</category>
+      
+      <category domain="https://Kitty-7.github.io/tags/blog/">blog</category>
+      
+      <category domain="https://Kitty-7.github.io/tags/git/">git</category>
+      
+      <category domain="https://Kitty-7.github.io/tags/hexo/">hexo</category>
+      
+      
+      <comments>https://kitty-7.github.io/2024/12/git%E7%9A%84%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E5%8F%8Ahexo%E9%83%A8%E7%BD%B2githubpages/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
